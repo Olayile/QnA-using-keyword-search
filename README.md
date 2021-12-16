@@ -1,2 +1,2 @@
 # QnA-using-keyword-search
-Populating Question and answer with PDF downloaded from keyword google search 
+Populating Question and answer with PDF downloaded from keyword google search for academic articles
